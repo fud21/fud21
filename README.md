@@ -24,9 +24,18 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=fud21&custom_title=fud21's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fud21&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+    <div align="center">
+      <h2 style="border-bottom:1px solid #d8dee4; color:#282d33;">🏅 Stats</h2>
+    
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=fud21&amp;custom_title=fud21%27s%20GitHub%20Stats&amp;show_icons=true&amp;bg_color=180,FFFFFF,EEEEEE&amp;title_color=000000&amp;text_color=000000"
+        alt="GitHub Stats"
+      />
+    
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=fud21&amp;layout=compact&amp;bg_color=180,FFFFFF,EEEEEE&amp;title_color=000000&amp;text_color=000000"
+        alt="Top Languages"
+      />
     </div>
+
     
