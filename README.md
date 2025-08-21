@@ -23,7 +23,7 @@
          <a href=https://velog.io/@zarong_/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@zarong_/posts"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeryeong0201@naver.com)](https://solved.ac/chaeryeong0201@naver.com/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rong0201)](https://solved.ac/rong0201/)
 
 
 
