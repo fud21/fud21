@@ -33,8 +33,12 @@
     <a href="https://velog.io/@zarong_/posts">
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
     </a>
+    <a href="https://zarongg.tistory.com/">
+      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+    </a>
   </div>  
 </div>
+
 
 <!-- Solved.ac Badge -->
 <p align="center">
