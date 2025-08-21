@@ -23,20 +23,7 @@
          <a href=https://velog.io/@zarong_/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@zarong_/posts"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
-    </div>
-    <div align="center">
-      <h2 style="border-bottom:1px solid #d8dee4; color:#282d33;">🏅 Stats</h2>
-    
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=fud21&custom_title=fud21%27s%20GitHub%20Stats&show_icons=true&bg_color=30,FFFFFF,EEEEEE&title_color=000000&text_color=000000"
-        alt="GitHub Stats"
-      />
-    
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=fud21&layout=compact&bg_color=30,FFFFFF,EEEEEE&title_color=000000&text_color=000000"
-        alt="Top Languages"
-      />
-    </div>
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeryeong0201@naver.com)](https://solved.ac/chaeryeong0201@naver.com/)
 
 
 
