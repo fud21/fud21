@@ -1,7 +1,7 @@
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"></h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
-    안녕하세요, 저는 🌱AI Medical Imaging 연구🌱를 하고 있는 장채령입니다!
+    안녕하세요, 저는 🌱인공지능 의료영상 연구🌱를 하고 있는 장채령입니다!
   </div> 
 </div>
 
