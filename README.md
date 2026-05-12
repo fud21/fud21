@@ -32,24 +32,3 @@
     </a>
   </div>  
 </div>
-
-
-<!-- Solved.ac Badge -->
-<p align="center">
-  <a href="https://solved.ac/rong0201/">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rong0201" alt="Solved.ac Profile" />
-  </a>
-</p>
-
-<!-- GitHub Stats -->
-<div align="center">
-  <h2 style="border-bottom:1px solid #d8dee4; color:#282d33;">🏅 Stats</h2>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=fud21&custom_title=fud21%27s%20GitHub%20Stats&show_icons=true&bg_color=30,FFFFFF,EEEEEE&title_color=000000&text_color=000000"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fud21&layout=compact&bg_color=30,FFFFFF,EEEEEE&title_color=000000&text_color=000000"
-    alt="Top Languages"
-  />
-</div>
